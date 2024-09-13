@@ -1,1 +1,1 @@
-# NextJs_infiniteScroll
+# Infinitely scrolling with server actions in nextJs
